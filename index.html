@@ -16,6 +16,19 @@
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+    <form action="/action_page.php">
+      <label for="checkurl">URL to check:</label><br>
+      <input type="text" id="checkurl" name="checkurl"><br>
+      <label for="reporttype">Choose a report type:</label><br>
+      <select id="reporttype" name="reporttype">
+        <option value="report1">Report #1</option>
+        <option value="report2">Report #2</option>
+        <option value="report3">Report #3</option>
+        <option value="report4">Report #4</option>
+        </select><br><br>
+      <input type="submit" value="Check the URL">
+    </form> 
+
     <h1>Let's display the results of the evaluation:</h1>
     
     <h2 id="pagetested">URL checked was </h2>

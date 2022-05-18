@@ -1,0 +1,42 @@
+{
+    "status": {
+        "success": true,
+        "httpstatuscode": 200
+    },
+    "statistics": {
+        "pagetitle": "Information Systems – The School District of Philadelphia",
+        "pageurl": "https://www.philasd.org/informationsystems/",
+        "time": 2.72,
+        "creditsremaining": 96,
+        "allitemcount": 190,
+        "totalelements": 544,
+        "waveurl": "http://wave.webaim.org/report?url=https://www.philasd.org/informationsystems/",
+        "domid": "7886ab96826a46cb2cef5e6cdbdc9a67"
+    },
+    "categories": {
+        "error": {
+            "description": "Errors",
+            "count": 0
+        },
+        "contrast": {
+            "description": "Contrast Errors",
+            "count": 13
+        },
+        "alert": {
+            "description": "Alerts",
+            "count": 9
+        },
+        "feature": {
+            "description": "Features",
+            "count": 9
+        },
+        "structure": {
+            "description": "Structural Elements",
+            "count": 35
+        },
+        "aria": {
+            "description": "ARIA",
+            "count": 124
+        }
+    }
+}

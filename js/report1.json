@@ -1,0 +1,41 @@
+{
+"status": {
+"success": true,
+"httpstatuscode": 200
+},
+"statistics": {
+"pagetitle": "The School District of Philadelphia – Philly Elementary, Middle & High Schools",
+"pageurl": "https://www.philasd.org/",
+"time": 4.92,
+"creditsremaining": 99,
+"allitemcount": 271,
+"totalelements": 912,
+"waveurl": "http://wave.webaim.org/report?url=https://www.philasd.org/"
+},
+"categories": {
+"error": {
+"description": "Errors",
+"count": 13
+},
+"contrast": {
+"description": "Contrast Errors",
+"count": 35
+},
+"alert": {
+"description": "Alerts",
+"count": 25
+},
+"feature": {
+"description": "Features",
+"count": 18
+},
+"structure": {
+"description": "Structural Elements",
+"count": 38
+},
+"aria": {
+"description": "ARIA",
+"count": 142
+}
+}
+}

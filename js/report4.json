@@ -1,0 +1,781 @@
+{
+"status": {
+"success": true,
+"httpstatuscode": 200
+},
+"statistics": {
+"pagetitle": "The School District of Philadelphia – Philly Elementary, Middle & High Schools",
+"pageurl": "https://www.philasd.org/",
+"time": 4.83,
+"creditsremaining": 91,
+"allitemcount": 271,
+"totalelements": 912,
+"waveurl": "http://wave.webaim.org/report?url=https://www.philasd.org/"
+},
+"categories": {
+"error": {
+"description": "Errors",
+"count": 13,
+"items": {
+"alt_link_missing": {
+"id": "alt_link_missing",
+"description": "Linked image missing alternative text",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child + SECTION > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P > A:first-child > IMG:first-child"
+]
+},
+"link_empty": {
+"id": "link_empty",
+"description": "Empty link",
+"count": 12,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + P + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child + SECTION > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + H3 + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SPAN:first-child + A",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SPAN:first-child + A",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SPAN:first-child + A",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SPAN:first-child + A",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child"
+]
+}
+}
+},
+"contrast": {
+"description": "Contrast Errors",
+"count": 35,
+"items": {
+"contrast": {
+"id": "contrast",
+"description": "Very Low Contrast",
+"count": 35,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#skiplinks > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#skiplinks > A:first-child + A",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV#google_translate_element > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item1",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item3",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item5 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item7",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item9",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + P + P + P + P + P + P + P + P + P + P > SPAN:first-child + A > SPAN:first-child > STRONG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child + BR + BR + A",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child + BR + BR + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1901 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1895 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-7103 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1869 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1866 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-6411 > A:first-child"
+],
+"contrastdata": [
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+4.34,
+"#666666",
+"#e0e0e0",
+false
+],
+[
+2.45,
+"#ffffff",
+"#5cba3c",
+true
+],
+[
+1,
+"#ffffff",
+"#ffffff",
+true
+],
+[
+1,
+"#ffffff",
+"#ffffff",
+true
+],
+[
+1,
+"#ffffff",
+"#ffffff",
+true
+],
+[
+1,
+"#ffffff",
+"#ffffff",
+true
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+4,
+"#3b8640",
+"#f1f2f2",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+],
+[
+2.95,
+"#3aab48",
+"#ffffff",
+false
+]
+]
+}
+}
+},
+"alert": {
+"description": "Alerts",
+"count": 25,
+"items": {
+"text_justified": {
+"id": "text_justified",
+"description": "Justified text",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#goog-gt-tt > DIV:first-child + DIV + DIV > DIV:first-child"
+]
+},
+"label_title": {
+"id": "label_title",
+"description": "Unlabeled form element with title",
+"count": 2,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id1 > TABLE#gs_id50 > TBODY:first-child > TR:first-child > TD#gs_tti50 > INPUT#gsc-i-id1",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id2 > TABLE#gs_id51 > TBODY:first-child > TR:first-child > TD#gs_tti51 > INPUT#gsc-i-id2"
+]
+},
+"heading_skipped": {
+"id": "heading_skipped",
+"description": "Skipped heading level",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child > H2:first-child + H4"
+]
+},
+"link_internal_broken": {
+"id": "link_internal_broken",
+"description": "Broken same-page link",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1item5 > A:first-child"
+]
+},
+"link_suspicious": {
+"id": "link_suspicious",
+"description": "Suspicious link text",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > A:first-child"
+]
+},
+"link_redundant": {
+"id": "link_redundant",
+"description": "Redundant link",
+"count": 12,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + P + P + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child + SECTION > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + H3 + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child + SECTION > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + H3 + P + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child + P > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child"
+]
+},
+"noscript": {
+"id": "noscript",
+"description": "Noscript element",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child > META:first-child + META + LINK + LINK + DIV + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + STYLE + STYLE + SCRIPT + TITLE + STYLE + LINK + LINK + LINK + LINK + LINK + LINK + LINK + LINK + LINK + STYLE + LINK + STYLE + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + LINK + LINK + LINK + META + LINK + LINK + LINK + LINK + META + NOSCRIPT"
+]
+},
+"table_layout": {
+"id": "table_layout",
+"description": "Layout table",
+"count": 6,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child",
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id1 > TABLE#gs_id50 > TBODY:first-child > TR:first-child > TD#gs_tti50",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id2 > TABLE#gs_id51 > TBODY:first-child > TR:first-child > TD#gs_tti51",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV + DIV + LINK + LINK + LINK + LINK + LINK + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + LINK + SCRIPT + SCRIPT + SCRIPT + SCRIPT + DIV + DIV + DIV + TABLE > TBODY:first-child > TR:first-child > TD:first-child",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV + DIV + LINK + LINK + LINK + LINK + LINK + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + SCRIPT + LINK + SCRIPT + SCRIPT + SCRIPT + SCRIPT + DIV + DIV + DIV + TABLE + TABLE > TBODY:first-child > TR:first-child > TD:first-child"
+]
+}
+}
+},
+"feature": {
+"description": "Features",
+"count": 18,
+"items": {
+"alt": {
+"id": "alt",
+"description": "Alternative text",
+"count": 3,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-previous > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-next > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#goog-gt-tt > DIV:first-child > DIV:first-child > DIV:first-child > IMG:first-child"
+]
+},
+"alt_null": {
+"id": "alt_null",
+"description": "Null or empty alternative text",
+"count": 7,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child > DIV:first-child > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child + IMG",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child + IMG",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > A:first-child + IMG"
+]
+},
+"alt_link": {
+"id": "alt_link",
+"description": "Linked image with alternative text",
+"count": 2,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV#google_translate_element > DIV:first-child > DIV:first-child + SPAN > A:first-child > IMG:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child > IMG:first-child"
+]
+},
+"link_skip": {
+"id": "link_skip",
+"description": "Skip link",
+"count": 2,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#skiplinks > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#skiplinks > A:first-child + A"
+]
+},
+"link_skip_target": {
+"id": "link_skip_target",
+"description": "Skip link target",
+"count": 2,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header"
+]
+},
+"lang": {
+"id": "lang",
+"description": "Element language",
+"count": 2,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id1 > TABLE#gs_id50 > TBODY:first-child > TR:first-child > TD#gs_tti50 > INPUT#gsc-i-id1",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id2 > TABLE#gs_id51 > TBODY:first-child > TR:first-child > TD#gs_tti51 > INPUT#gsc-i-id2"
+]
+}
+}
+},
+"structure": {
+"description": "Structural Elements",
+"count": 38,
+"items": {
+"h1": {
+"id": "h1",
+"description": "Heading level 1",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#goog-gt-tt > DIV:first-child + DIV > H1:first-child"
+]
+},
+"h2": {
+"id": "h2",
+"description": "Heading level 2",
+"count": 7,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > H2:first-child"
+]
+},
+"h3": {
+"id": "h3",
+"description": "Heading level 3",
+"count": 9,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child + SECTION > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child + P + H3",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > DIV:first-child > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV > DIV:first-child > STYLE:first-child + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > A:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child + DIV > H3:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > H2:first-child + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > H3:first-child"
+]
+},
+"h4": {
+"id": "h4",
+"description": "Heading level 4",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > SECTION:first-child > DIV:first-child > DIV:first-child > DIV:first-child > HEADER:first-child > H2:first-child + H4"
+]
+},
+"ul": {
+"id": "ul",
+"description": "Unordered list",
+"count": 13,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9235 > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240 > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9249 > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN + UL",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu"
+]
+},
+"iframe": {
+"id": "iframe",
+"description": "Inline Frame",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > DIV:first-child > P:first-child > DIV:first-child > IFRAME#_ytid_31086"
+]
+},
+"header": {
+"id": "header",
+"description": "Header",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header"
+]
+},
+"nav": {
+"id": "nav",
+"description": "Navigation",
+"count": 3,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#skiplinks",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child"
+]
+},
+"main": {
+"id": "main",
+"description": "Main content",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child"
+]
+},
+"footer": {
+"id": "footer",
+"description": "Footer",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer"
+]
+}
+}
+},
+"aria": {
+"description": "ARIA",
+"count": 142,
+"items": {
+"aria": {
+"id": "aria",
+"description": "ARIA",
+"count": 76,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9228",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9231",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9232",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9233",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9234",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9235",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9235 > A:first-child + SPAN + UL > LI#menu-item-9767",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9914",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9237",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9238",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9236",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240 > A:first-child + SPAN + UL > LI#menu-item-9241",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240 > A:first-child + SPAN + UL > LI#menu-item-9243",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240 > A:first-child + SPAN + UL > LI#menu-item-9242",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9244",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9246",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9247",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9249",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9249 > A:first-child + SPAN + UL > LI#menu-item-9248",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9249 > A:first-child + SPAN + UL > LI#menu-item-9250",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9239",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9251",
+"HTML > HEAD:first-child + BODY > DIV#search-function",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-505",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-578",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-581",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-584",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-436",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-439",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-442",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-445",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-448",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN + UL > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI > A:first-child + SPAN + UL > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI > A:first-child + SPAN + UL > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI > A:first-child + SPAN + UL > LI:first-child + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN + UL > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN + UL > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > BUTTON#search-button",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child + LI + LI + LI + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1901",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1895",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-7103",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1869",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-1866",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child + DIV > UL#menu-footer-menu > LI#menu-item-6411"
+]
+},
+"aria_label": {
+"id": "aria_label",
+"description": "ARIA label",
+"count": 18,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#skiplinks",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV",
+"HTML > HEAD:first-child + BODY > DIV#search-function",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV#google_translate_element > DIV:first-child > DIV#:0.targetLanguage > SELECT:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child > BUTTON:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child > BUTTON:first-child + BUTTON",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child > BUTTON:first-child + BUTTON + BUTTON",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > BUTTON#search-button",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child + BUTTON + BUTTON",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-previous",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-next",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child"
+]
+},
+"aria_tabindex": {
+"id": "aria_tabindex",
+"description": "ARIA tabindex",
+"count": 9,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-previous",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-next",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip"
+]
+},
+"aria_menu": {
+"id": "aria_menu",
+"description": "ARIA menu",
+"count": 1,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3"
+]
+},
+"aria_button": {
+"id": "aria_button",
+"description": "ARIA button",
+"count": 9,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id1 > TABLE#gs_id50 > TBODY:first-child > TR:first-child > TD:first-child + TD > DIV#gs_st50 > A:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-previous",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV#n2-ss-1-arrow-next",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#fullpage > DIV#section0 > DIV:first-child > DIV:first-child > DIV:first-child > DIV#n2-ss-1-align > DIV:first-child > DIV#n2-ss-1 > DIV:first-child > DIV:first-child + DIV + DIV + DIV > DIV:first-child > DIV:first-child + DIV + DIV + DIV + DIV > DIV:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id2 > TABLE#gs_id51 > TBODY:first-child > TR:first-child > TD:first-child + TD > DIV#gs_st51 > A:first-child"
+]
+},
+"aria_hidden": {
+"id": "aria_hidden",
+"description": "ARIA hidden",
+"count": 19,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9227 > A:first-child + SPAN + UL > LI#menu-item-9235 > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9240 > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV > DIV:first-child > H2:first-child + NAV > UL#menu-main-menu-2 > LI#menu-item-9249 > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#search-function > DIV:first-child > DIV#___gcse_0 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id1 > TABLE#gs_id50 > TBODY:first-child > TR:first-child > TD:first-child + TD > DIV#gs_st50 > A:first-child > SPAN#gs_cb50",
+"HTML > HEAD:first-child + BODY > DIV:first-child + DIV + DIV + DIV > DIV:first-child > UL#menu-languages > LI#menu-item-505 > A:first-child > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI > A:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > BUTTON#search-button > SPAN:first-child + SPAN",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child + BUTTON + BUTTON > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#contentskip > DIV:first-child > DIV#___gcse_1 > DIV:first-child > FORM:first-child > TABLE:first-child > TBODY:first-child > TR:first-child > TD:first-child > DIV#gsc-iw-id2 > TABLE#gs_id51 > TBODY:first-child > TR:first-child > TD:first-child + TD > DIV#gs_st51 > A:first-child > SPAN#gs_cb51",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child > UL#menu-languages-1 > LI:first-child > A:first-child > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > A:first-child > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > A:first-child + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > A:first-child + A + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > A:first-child + A + A + A > SPAN:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#footer > DIV:first-child > DIV:first-child + DIV > DIV:first-child > DIV:first-child > A:first-child + A + A + A + A > SPAN:first-child"
+]
+},
+"aria_expanded": {
+"id": "aria_expanded",
+"description": "ARIA expanded",
+"count": 6,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > BUTTON#search-button",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child + DIV > DIV:first-child + BUTTON + BUTTON"
+]
+},
+"aria_haspopup": {
+"id": "aria_haspopup",
+"description": "ARIA popup",
+"count": 4,
+"selectors": [
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child > A:first-child + SPAN + UL > LI:first-child + LI + LI + LI + LI + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI",
+"HTML > HEAD:first-child + BODY > DIV#wrapper > DIV#header > DIV:first-child > A:first-child + DIV > NAV:first-child > UL#menu-main-menu-3 > LI:first-child + LI + LI + LI + LI + LI"
+]
+}
+}
+}
+}
+}
